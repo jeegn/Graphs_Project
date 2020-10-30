@@ -1,0 +1,14 @@
+A,B,C,D,E,F,G,H
+A,C,4
+A,F,7
+B,E,9
+B,H,3
+C,F,2
+C,G,9
+C,D,3
+D,E,3
+D,G,7
+E,G,2
+E,H,7
+F,G,8
+G,H,3

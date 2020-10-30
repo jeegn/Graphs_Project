@@ -1,0 +1,12 @@
+B,F,G,I,K,N,O,Q,S,T,V,W
+O,V,1
+G,K,2
+F,Q,3
+F,W,4
+F,I,5
+F,S,6
+K,N,7
+G,V,11
+I,T,15
+B,K,18
+B,T,20
